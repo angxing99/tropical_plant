@@ -336,10 +336,10 @@
   ],
   "images": [
     {
-      "uri": "textures/tropical_plant_diffuse.png"
+      "uri": "tropical_plant_diffuse.png"
     },
     {
-      "uri": "textures/tropical_plant_specularGlossiness.png"
+      "uri": "tropical_plant_specularGlossiness.png"
     }
   ],
   "materials": [
